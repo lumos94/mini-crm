@@ -11,7 +11,7 @@ To run this project, ensure your environment meets the following requirements:
 ### Step 1: Clone the Repository
 First, clone the repository from GitHub or another source:
 ```bash
-git clone <repository-url>
+git clone https://github.com/lumos94/mini-crm.git
 ```
 Navigate into the project directory:
 
